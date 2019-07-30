@@ -5,6 +5,8 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/mantyr/clear-file-separator?v=1)][goreport]
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE.md)
 
+This don't stable version
+
 ## Installation
 
     $ go get -u github.com/mantyr/clear-file-separator
