@@ -15,6 +15,7 @@ This don't stable version
 
     $ clear-file-separator ./file.src ./file.dst
     $ clear-file-separator *
+    $ clear-file-separator ./testdata/*.xml ./testdata/*.json
 
 ## Author
 
